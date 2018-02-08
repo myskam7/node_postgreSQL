@@ -1,0 +1,28 @@
+{
+  "name": "node_postgresql",
+  "version": "1.0.0",
+  "description": "recipe manager",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myskam7/node_postgreSQL.git"
+  },
+  "author": "Maksym Filippov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myskam7/node_postgreSQL/issues"
+  },
+  "homepage": "https://github.com/myskam7/node_postgreSQL#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "consolidate": "^0.15.0",
+    "dust": "^0.3.0",
+    "dustjs-helpers": "^1.7.4",
+    "dustjs-linkedin": "^2.7.5",
+    "express": "^4.16.2",
+    "pg": "^7.4.1"
+  }
+}
